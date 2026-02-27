@@ -65,11 +65,11 @@ python -m streamlit run app.py
 
 ## 🌍 Live Deployment
 
-After deployment, your app will be available at:
+After deployment,  app will be available at:
 
-https://your-app-name.streamlit.app
+https://ml-project-n9mdkoezzzjqwhbsdpsmw3.streamlit.app/
 
-(Paste your real Streamlit link here after deployment)
+(https://ml-project-n9mdkoezzzjqwhbsdpsmw3.streamlit.app/)
 
 ---
 
